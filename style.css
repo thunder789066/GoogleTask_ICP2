@@ -48,9 +48,12 @@ body {
 }
 
 #notifications-icon {
-  background-image: url("Imgs/notifications_icon.png");
+  background-image: url("https://ssl.gstatic.com/gb/images/i2_2ec824b0.png");
+  /*background: black;*/
   width: 30px;
   height: 30px;
+  background-position: -460px 0px;
+  background-size: 528px 68px;
 }
 
 #notifications-icon:hover {
@@ -58,15 +61,15 @@ body {
 }
 
 /*#sign-in {
-  padding: 8px 11px;
-  background-color: #4285f4;
-  border-radius: 2px;
+padding: 8px 11px;
+background-color: #4285f4;
+border-radius: 2px;
 }
 
 #sign-in-text {
-  color: white !important;
-  font-weight: bold;
-  text-decoration: none !important;
+color: white !important;
+font-weight: bold;
+text-decoration: none !important;
 }*/
 
 .main-content {
